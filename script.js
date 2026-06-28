@@ -7,7 +7,7 @@ const BIRTHDAY = new Date('2026-07-04T00:00:00');
 // MODE TESTING
 // true  → pakai FAKE_NOW (simulasi waktu)
 // false → pakai jam asli komputer
-const TESTING  = true;
+const TESTING  = false;
 const FAKE_NOW = new Date('2026-08-16T23:59:52');
 
 const LETTER_TEXT =
